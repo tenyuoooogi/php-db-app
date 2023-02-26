@@ -165,6 +165,12 @@ footer {
   color: #28a745;
 }
 
+.edit-icon,
+.delete-icon {
+  height: 1.5rem;
+  vertical-align: top;
+}
+
 .registration {
   box-sizing: border-box;
   max-width: 320px;
